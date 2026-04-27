@@ -73,6 +73,13 @@ Focused on granular, customer-level insights.
 - Used **Date Table** for time intelligence calculations
 - Applied **measures for KPIs** instead of calculated columns
 
+
+## SCREENSHORT
+MAIN DASHBOARD: https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/MAIN%20DASHBOARD.png
+
+DETAIL PAGE DASHBOARD: https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/DETAIL%20PAGE%20DASHBOARD.png
+
+
 ---
 
 ## 🧮 Key DAX Measures (Examples)
@@ -89,8 +96,3 @@ DIVIDE(
     [Total Sales] - CALCULATE([Total Sales], SAMEPERIODLASTYEAR(Date[Date])),
     CALCULATE([Total Sales], SAMEPERIODLASTYEAR(Date[Date]))
 )
-
-## SCREENSHORT
-MAIN DASHBOARD: https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/MAIN%20DASHBOARD.png
-
-DETAIL PAGE DASHBOARD: https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/DETAIL%20PAGE%20DASHBOARD.png
