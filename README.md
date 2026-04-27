@@ -74,7 +74,7 @@ Focused on granular, customer-level insights.
 - Applied **measures for KPIs** instead of calculated columns
 
 
-## SCREENSHORT:
+##📷 Dashboard Preview
 ![Main Dashboard](https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/MAIN%20DASHBOARD.png)
 
 
