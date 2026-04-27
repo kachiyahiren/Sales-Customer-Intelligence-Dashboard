@@ -89,3 +89,8 @@ DIVIDE(
     [Total Sales] - CALCULATE([Total Sales], SAMEPERIODLASTYEAR(Date[Date])),
     CALCULATE([Total Sales], SAMEPERIODLASTYEAR(Date[Date]))
 )
+
+## SCREENSHORT
+MAIN DASHBOARD: https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/MAIN%20DASHBOARD.png
+
+DETAIL PAGE DASHBOARD:
