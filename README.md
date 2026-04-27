@@ -83,9 +83,6 @@ Total Sales = SUM(Sales[SalesAmount])
 Total Orders = COUNT(Sales[OrderID])
 
 Profit = SUM(Sales[Profit])
-<img width="1327" height="742" alt="Screenshot 2026-04-27 130307" src="https://github.com/user-attachments/assets/3bb27a83-7c64-49de-8884-918d72cc0890" />
-<img width="1322" height="742" alt="Screenshot 2026-04-27 130245" src="https://github.com/user-attachments/assets/b38aae93-6de4-4a42-99b0-d0fe5a0afdca" />
-
 
 YOY Growth % =
 DIVIDE(
