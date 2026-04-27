@@ -76,9 +76,9 @@ Focused on granular, customer-level insights.
 
 ## SCREENSHORT:
 ![Main Dashboard](https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/MAIN%20DASHBOARD.png)
-MAIN DASHBOARD: https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/MAIN%20DASHBOARD.png
 
-DETAIL PAGE DASHBOARD: https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/DETAIL%20PAGE%20DASHBOARD.png
+![Detail Page Dashboard](https://github.com/kachiyahiren/Sales-Customer-Intelligence-Dashboard/blob/main/DETAIL%20PAGE%20DASHBOARD.png
+)
 
 
 ---
